@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/Felx-B/vscode-web#readme",
   "devDependencies": {
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "fs-extra": "^10.0.0",
     "glob": "^7.1.6",
     "rimraf": "^3.0.2",
